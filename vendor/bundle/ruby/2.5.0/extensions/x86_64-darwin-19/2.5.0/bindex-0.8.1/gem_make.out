@@ -1,0 +1,15 @@
+current directory: /Users/ogatamasashi/practice/d/Rails6-bookers1-debug-main/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/ogatamasashi/.rbenv/versions/2.5.7/bin/ruby -r ./siteconf20220226-36878-69mrvx.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ogatamasashi/practice/d/Rails6-bookers1-debug-main/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ogatamasashi/practice/d/Rails6-bookers1-debug-main/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/ogatamasashi/practice/d/Rails6-bookers1-debug-main/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220226-36878-rjzrc2/skiptrace/internal
